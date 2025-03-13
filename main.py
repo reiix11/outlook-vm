@@ -1,3 +1,5 @@
+#just dont skid it :)
+
 from colorama   import Fore, init
 
 import aiohttp
